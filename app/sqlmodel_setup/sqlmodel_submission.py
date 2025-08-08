@@ -1,1 +1,2 @@
-## setup for DB table models and input/output/timestamp
+
+## SQLModle table represents input/output submissions 

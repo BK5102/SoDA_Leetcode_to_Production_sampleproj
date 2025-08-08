@@ -1,1 +1,3 @@
-## database, SQLModel engine session setup
+## function that creates a SQLModel DB session
+
+

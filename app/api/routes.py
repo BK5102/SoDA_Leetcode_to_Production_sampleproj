@@ -11,9 +11,8 @@ from app.sqlmodel_setup.sqlmodel_submission import Submission
 from app.core_functions.leetcode_problem import twoSum
 
 from sqlmodel import Session
-from datetime import datetime
-
-
+from datetime import datetime ## records the time of API calls
+ 
 
 router = APIRouter() 
 
